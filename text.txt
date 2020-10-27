@@ -1,1 +1,2 @@
 git initial file
+line 2
